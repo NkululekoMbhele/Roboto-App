@@ -1,0 +1,9 @@
+div {
+    padding-bottom: 20px;
+}
+
+input {
+    outline: none;
+    width: 300px;
+    text-align: center;
+}
